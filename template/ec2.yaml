@@ -72,3 +72,5 @@ Outputs:
 
   PublicIP:
     Value: !GetAtt MyEc2Github.PublicIp
+
+    
